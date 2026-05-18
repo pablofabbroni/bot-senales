@@ -7,7 +7,7 @@ import requests
 API_ID = 33556386
 API_HASH = '1cb5333facf7aa801a7eea1eaf27ff29'
 PHONE = '+543585620423'
-GROUP_LINK = 'https://t.me/+zal9Bznkv8YwZjMx' 
+GROUP_LINK = 'https://t.me/+W6a8NfSSR8w4YzJi' 
 NTFY_TOPIC = 'senales-ptf-2026'
 # ==============================
 
